@@ -16,9 +16,9 @@
             </div>
             <br />
             <div>
-                <asp:Button ID="ButtonShowFootote" runat="server" Text="Show first footnote" />
+                <asp:Button ID="btnShowFootote" runat="server" Text="Show first footnote" OnClick="btnShowFootote_Click" />
                 <br />
-                <asp:Label ID="LabelFootnote" runat="server"></asp:Label>
+                <asp:Label ID="lblFootnote" runat="server"></asp:Label>
             </div>
             
 

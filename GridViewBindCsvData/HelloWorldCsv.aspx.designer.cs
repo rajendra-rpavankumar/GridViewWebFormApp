@@ -33,21 +33,21 @@ namespace GridViewBindCsvData
         protected global::System.Web.UI.WebControls.GridView GridViewData;
 
         /// <summary>
-        /// ButtonShowFootote control.
+        /// btnShowFootote control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button ButtonShowFootote;
+        protected global::System.Web.UI.WebControls.Button btnShowFootote;
 
         /// <summary>
-        /// LabelFootnote control.
+        /// lblFootnote control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label LabelFootnote;
+        protected global::System.Web.UI.WebControls.Label lblFootnote;
     }
 }
